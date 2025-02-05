@@ -23,7 +23,7 @@
   
   <h2>🧰 Texnologiyalar</h2>
   
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,react,nextjs,redux,nodejs,express,mongodb,git,github,firebase,docker,figma,vscode" alt="Skills" />
   </a>
   
