@@ -1,4 +1,4 @@
-<div align="center">
+<div">
 
   <h1>👋 Assalomu alaykum! Men Muhammad Karimov</h1>
   <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=24&letterSpacing=3px&duration=3000&pause=1000&color=A4C8E1&center=true&vCenter=true&random=true&width=435&lines=Frontend+Dasturchi+;Mentor;Dasturchi+Blogger" alt="Typing SVG" /></a>
