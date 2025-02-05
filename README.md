@@ -32,11 +32,8 @@
 ---
 
 ## 🐍 GitHub Contribution Snake
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,styledcomponents,sass,js,ts,jquery,react,redux,next,vue,nuxt,threejs" />
-    <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,selenium,sqlite" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,vite,vscode" /><br>
-</div>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
 
 ---
 
