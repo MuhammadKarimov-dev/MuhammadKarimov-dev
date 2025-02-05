@@ -4,7 +4,7 @@
   <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=24&letterSpacing=3px&duration=3000&pause=1000&color=A4C8E1&center=true&vCenter=true&random=true&width=435&lines=Frontend+Dasturchi+;Mentor;Dasturchi+Blogger" alt="Typing SVG" /></a>
   </h3>
   
-  <p align="justify" style="max-width: 600px; margin: 0 auto;"> 
+  <p align="center" style="max-width: 600px; margin: 0 auto;"> 
     Men <b>Digital City</b> kompaniyasida Frontend bo‘yicha <b>mentor</b> sifatida ishlayman.  
     Shuningdek, <a href="https://www.youtube.com/@metaKarimov">YouTube kanalim</a> orqali texnologiya va dasturlash bo‘yicha kontent yaratib, bilim ulashaman.
   </p>
