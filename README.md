@@ -48,19 +48,22 @@
   
   ---
   
-  <h2>📞 Murojaat</h2>
-  
-  <p>
-    <a href="mailto:karimov.muhammad.dev@gmail.com">
-      <img src="https://img.shields.io/badge/Email-karimov.muhammad.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-    <a href="https://t.me/Muhammad_Linkdev">
-      <img src="https://img.shields.io/badge/Telegram-%40Muhammad__Linkdev-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-    <a href="https://www.youtube.com/@metaKarimov">
-      <img src="https://img.shields.io/badge/YouTube-Muhammad%20Karimov-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-    </a>
-  </p>
+<h2>📞 Murojaat</h2>
+
+<p>
+  <a href="mailto:karimov.muhammad.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-karimov.muhammad.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://t.me/Muhammad_Linkdev">
+    <img src="https://img.shields.io/badge/Telegram-%40Muhammad__Linkdev-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@metaKarimov">
+    <img src="https://img.shields.io/badge/YouTube-Muhammad%20Karimov-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-karimovdev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Karimov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
   
   <strong>Birgalikda rivojlanamiz!</strong>
   
