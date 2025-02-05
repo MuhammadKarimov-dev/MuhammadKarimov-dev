@@ -33,7 +33,9 @@
 
 ## 🐍 GitHub Contribution Snake
 <div align="center">
-  <img src="https://github.com/Metasensei/Metasensei/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,styledcomponents,sass,js,ts,jquery,react,redux,next,vue,nuxt,threejs" />
+    <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,selenium,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vite,vscode" /><br>
 </div>
 
 ---
