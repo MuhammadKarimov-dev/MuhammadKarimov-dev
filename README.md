@@ -53,7 +53,7 @@
   
   <h2>🐍 GitHub Contribution Snake</h2>
   
-  ![snake gif](https://github.com/MuhammadKarimov-dev/MuhammadKarimov-dev/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://raw.githubusercontent.com/MuhammadKarimov-dev/MuhammadKarimov-dev/output/github-contribution-grid-snake.svg)
 
   ---
   
