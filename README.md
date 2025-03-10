@@ -27,7 +27,7 @@
   <h2>🧰 Texnologiyalar</h2>
   
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,jquery,react,nextjs,redux,nodejs,postman,express,mongodb,git,github,firebase,docker,figma,vscode,python,flask,django,ai,postgresql,mysql,graphql,aws,gcp,azure,linux,nginx,jenkins,kubernetes,electron,webpack,babel,jest,photoshop,threejs" alt="Skills" />
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,jquery,react,nextjs,redux,nodejs,postman,express,mongodb,git,github,firebase,docker,figma,notion,vscode,python,flask,django,ai,postgresql,mysql,graphql,aws,gcp,azure,linux,nginx,jenkins,kubernetes,electron,webpack,babel,jest,photoshop,threejs" alt="Skills" />
   </a>
   
   ---
