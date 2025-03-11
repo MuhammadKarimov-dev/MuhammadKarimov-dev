@@ -1,27 +1,27 @@
 name: Generate Snake
-
 on:
   schedule:
-    - cron: "0 0 * * *" # Har kuni soat 00:00da yangilash
+    - cron: "0 0,1 * * *" # Har kuni soat 00:00 va 01:00 da yangilash
   workflow_dispatch:
-
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
+        
       - name: Generate Snake
         uses: Platane/snk@master
         with:
           github_user_name: MuhammadKarimov-dev # O'zingizning GitHub foydalanuvchi nomingiz
-          svg_file_path: output/github-contribution-grid-snake.svg
-
+          svg_out_path: output/github-contribution-grid-snake.svg
+          
       - name: Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "Update snake"
+          git commit -m "Update snake" || echo "No changes to commit"
           git push
