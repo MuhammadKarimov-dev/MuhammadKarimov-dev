@@ -26,7 +26,7 @@
   
   <h2>🧰 Texnologiyalar</h2>
   
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/MuhammadKarimov-dev">
   <img align="center" src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,jquery,react,nextjs,redux,nodejs,express,flask,django,python,postgresql,mysql,mongodb,graphql,git,github,postman,docker,nginx,jenkins,kubernetes,aws,gcp,azure,linux,figma,notion,vscode,photoshop,electron,webpack,babel,jest,threejs,firebase" alt="Skills" />
 
   </a>
@@ -50,13 +50,6 @@
     </a>
   </div>
   
-  ---
-  
-  <h2>🐍 GitHub Contribution Snake</h2>
-  
-  ![snake gif](https://raw.githubusercontent.com/MuhammadKarimov-dev/MuhammadKarimov-dev/output/github-contribution-grid-snake.svg)
-
-  ---
   
   <h2>📞 Murojaat</h2>
 
