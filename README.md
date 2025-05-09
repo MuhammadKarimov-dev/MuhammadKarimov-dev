@@ -15,10 +15,8 @@
   <h2>🧑‍💻 Men haqimda qisqacha</h2>
   
   <p align="justify" style="max-width: 600px; margin: 0 auto;">
-    Frontend sohasida HTML, CSS, JavaScript, React kabi texnologiyalarda tajribaga egaman. Talabalarimga zamonaviy 
-    <em>frontend</em> jarayonlarini oʻrgatish bilan birga oʻz tajribamni ham ulashishga harakat qilaman.
-    Kelajakda <b>Node.js</b> va <b>Express.js</b> boʻyicha bilimlarimni yanada chuqurlashtirishni maqsad qilganman.
-  </p>
+    Men frontend sohasida HTML, CSS, JavaScript, React kabi texnologiyalar bilan ishlash tajribasiga egaman. Talabalarimga zamonaviy frontend jarayonlarini oʻrgatish orqali o'z bilimlarimni ulashishga intilaman. Kelajakda Node.js, Express.js va backend dasturlash bo‘yicha chuqurroq bilim olishni maqsad qilganman. Shu bilan birga, DevOps va Linux sohasidagi tajribamni ham rivojlantirishni rejalashtirmoqdaman.
+</p>
   
   ---
   
