@@ -51,9 +51,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadKarimov-dev&layout=compact&theme=radical&count_private=true&hide_border=true" height="150" alt="Top Languages" />
     </a>
     <!-- GitHub Streak Stats -->
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadKarimov-dev&theme=radical&hide_border=true">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadKarimov-dev&theme=radical&hide_border=true" height="150" alt="GitHub Streak Stats" />
-    </a>
+  
   </div>
   
   
