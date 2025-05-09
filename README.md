@@ -27,7 +27,7 @@
   <h2>🧰 Texnologiyalar</h2>
   
   <a href="https://github.com/MuhammadKarimov-dev">
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,ts,jquery,react,nextjs,redux,nodejs,express,flask,django,python,postgresql,mysql,mongodb,graphql,git,github,postman,docker,nginx,jenkins,kubernetes,aws,gcp,azure,linux,figma,notion,vscode,photoshop,electron,webpack,babel,jest,threejs,firebase" alt="Skills" />
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,python,django,react,nextjs,redux,jquery,figma,linux,vscode,nginx" alt="Skills" />
 
   </a>
   
