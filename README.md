@@ -28,13 +28,12 @@
   
   <a href="https://github.com/MuhammadKarimov-dev">
   <!-- 1-qator -->
-<img align="center" src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js" alt="Skills" />
-
+<!-- 1-qator -->
+<img align="center" src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,python,django" alt="Skills" />
+<br/>
+    
 <!-- 2-qator -->
-<img align="center" src="https://skillicons.dev/icons?i=ts,python,django,react,nextjs,redux" alt="Skills" />
-
-<!-- 3-qator -->
-<img align="center" src="https://skillicons.dev/icons?i=jquery,figma,linux,vscode,nginx,sqlite" alt="Skills" />
+<img align="center" src="https://skillicons.dev/icons?i=react,nextjs,redux,jquery,figma,linux,vscode,nginx,sqlite" alt="Skills" />
 
   </a>
   
