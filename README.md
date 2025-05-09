@@ -30,10 +30,10 @@
   <!-- 1-qator -->
 <!-- 1-qator -->
 <!-- 1-qator (9 ta icon) -->
-<img align="center" src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,python,django" alt="Skills" />
+<img align="center" src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,python,django,nginx,sqlite" alt="Skills" />
 <br/>
 <!-- 2-qator (7 ta icon) -->
-<img align="center" src="https://skillicons.dev/icons?i=react,nextjs,redux,jquery,figma,linux,vscode,nginx,sqlite" alt="Skills" />
+<img align="center" src="https://skillicons.dev/icons?i=react,nextjs,redux,jquery,figma,linux,vscode" alt="Skills" />
   </a>
   
   ---
